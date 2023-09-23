@@ -162,6 +162,15 @@ footer{
     margin-top:auto;
 }
 
+@media (width < 400px){
+    .search-input{
+        width: 50%;
+    }
+    .container-box{
+        width: 70%;
+    }
+}
+
 @media ( width <= 600px){
     .search-input{
         width: 62%;
