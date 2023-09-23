@@ -160,11 +160,13 @@ footer{
     padding: 10px; 
     position:relative;
     margin-top:auto;
+    text-align:center;
 }
 
 @media (width < 400px){
     .search-input{
-        width: 50%;
+        width: 100%;
+        margin-bottom: 10px;
     }
     .container-box{
         width: 70%;
