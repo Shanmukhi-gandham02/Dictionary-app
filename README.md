@@ -6,6 +6,9 @@ This project replicates the layout, design, and functionality of a dictionary we
 It allows users to search for word definitions and highlights the searched word in the results. 
 The website is built using HTML, CSS, and JavaScript and is designed to be responsive on various screen sizes (desktop, tablet, and mobile).
 
+## Link to the Website
+https://shanmukhi-gandham02.github.io/Dictionary-app/
+
 ## Features
 
 - Search functionality : Search for word definitions.
@@ -34,5 +37,3 @@ The website integrates the Dictionary API to fetch word definitions. The API doc
 ## Responsive Design
 The website is designed to be responsive and adapt to different screen sizes. It uses CSS media queries to adjust the layout and styling for desktop, tablet, and mobile devices.
 
-## Link to the Website
-https://shanmukhi-gandham02.github.io/Dictionary-app/
